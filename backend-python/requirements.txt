@@ -1,0 +1,9 @@
+# Python Dependencies for Financial Analytics Tool
+
+# Add your project dependencies below
+
+numpy
+pandas
+scikit-learn
+flask
+requests
